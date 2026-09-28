@@ -1,0 +1,8 @@
+{
+  "name": "AuthVault - Firebase Auth & User Management",
+  "description": "Secure user registration, authentication, email verification, password resets, and user management powered by Firebase Auth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
